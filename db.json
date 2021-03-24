@@ -1,0 +1,36 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Pil",
+      "price": 100,
+      "quantity": "70",
+      "selected": true,
+      "available": false
+    },
+    {
+      "id": 2,
+      "name": "Printer",
+      "price": 7200,
+      "quantity": 16,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "Smart phone",
+      "price": 4000,
+      "quantity": 60,
+      "selected": true,
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "solo",
+      "price": "3",
+      "quantity": "2",
+      "selected": true,
+      "available": true
+    }
+  ]
+}
